@@ -44,7 +44,7 @@ public class EmployeeDAOTest {
 		logger.info("Antes de cada metodo");
 	}
 	
-	@Test
+	/*@Test
 	public void testFindEmployeeById() {
 
 		try {
@@ -68,6 +68,6 @@ public class EmployeeDAOTest {
 			fail(e.getMessage());
 		}
 
-	}
+	}*/
 
 }
