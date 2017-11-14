@@ -36,7 +36,7 @@ public class EmployeeControllerIntegrationTest {
 	}
 	
 
-    @Test
+   /* @Test
     public void givenWac_whenServletContext_thenItProvidesGreetController() {
 	    ServletContext servletContext = wac.getServletContext();
 	    Assert.assertNotNull(servletContext);
@@ -79,7 +79,7 @@ public class EmployeeControllerIntegrationTest {
                 //.andExpect(model().attribute("command", 
                 //		hasProperty("department", hasProperty("departmentId",is(12)))))
             ;
-	}
+	}*/
 
 	
 }
